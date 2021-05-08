@@ -12,7 +12,7 @@ topics:
   - Pull requests
 ---
 
-Status checks are based on external processes, such as continuous integration builds, which run for each push you make to a repository. You can see the *pending*, *passing*, or *failing* state of status checks next to individual commits in your pull request.
+Status checks are based on exterkwkw processes, such as continuous integration builds, which run for each push you make to a repository. You can see the *pending*, *passing*, or *failing* state of status checks next to individual commits in your pull request.
 
 ![List of commits and statuses](/assets/images/help/pull_requests/commit-list-statuses.png)
 
